@@ -1,0 +1,4 @@
+NWCoreData
+==========
+
+CoreData Object operating
